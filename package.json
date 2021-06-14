@@ -1,0 +1,69 @@
+{
+  "name": "adminpanel-257a3",
+  "version": "1.0.0",
+  "description": "",
+  "author": {
+    "name": "Parth Patel",
+    "url": "https://parthspatel.ca/"
+  },
+  "private": true,
+  "dependencies": {
+    "@date-io/date-fns": "^2.10.11",
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/pickers": "^3.3.10",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "@types/d3": "^6.2.0",
+    "@types/jest": "^26.0.15",
+    "@types/material-ui": "^0.21.8",
+    "@types/node": "^12.0.0",
+    "@types/react": "^16.9.53",
+    "@types/react-dom": "^16.9.8",
+    "@types/react-helmet": "^6.1.0",
+    "clsx": "^1.1.1",
+    "d3": "^6.3.1",
+    "dotenv": "^8.2.0",
+    "firebase": "^8.6.7",
+    "formik": "^2.2.9",
+    "material-ui-image": "^3.3.2",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.6.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "reactfire": "*",
+    "typescript": "^4.0.3",
+    "web-vitals": "^0.2.4",
+    "yup": "^0.32.9"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react-router-dom": "^5.1.6"
+  }
+}
