@@ -17,7 +17,7 @@ Besides, you have to install all the dependencies as well like:
 * npm install reactfire Firebase
 
 
--Home section shows about me and education dynamically amd all the data are stored in firebase database.
+-Home (Aboutme and Education)
 ![Screenshot (17)](https://user-images.githubusercontent.com/39732354/121841777-062db780-ccad-11eb-85bd-76c66410f35d.png)
 
 -Contact Me
